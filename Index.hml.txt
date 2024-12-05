@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lista de Filmes</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Lista de Filmes</h1>
+
+    <!-- Filme 1 -->
+    <div class="movie">
+      <img src="https://m.media-amazon.com/images/I/51ni7tAfI7L._AC_.jpg" alt="O Senhor dos Anéis: A Sociedade do Anel">
+      <h2>O Senhor dos Anéis: A Sociedade do Anel</h2>
+      <p><strong>Ano:</strong> 2001</p>
+      <p><strong>Gênero:</strong> Aventura, Drama, Fantasia</p>
+      <p><strong>Atores:</strong> Elijah Wood, Ian McKellen, Orlando Bloom</p>
+      <p><strong>Sinopse:</strong> Frodo Bolseiro, um hobbit, é incumbido de uma grande missão para destruir um poderoso anel mágico, o Um Anel, para que ele não caia nas mãos do Senhor das Trevas, Sauron.</p>
+    </div>
+
+    <!-- Filme 2 -->
+    <div class="movie">
+      <img src="https://m.media-amazon.com/images/I/41fgvshOj4L._AC_.jpg" alt="O Poderoso Chefão">
+      <h2>O Poderoso Chefão</h2>
+      <p><strong>Ano:</strong> 1972</p>
+      <p><strong>Gênero:</strong> Crime, Drama</p>
+      <p><strong>Atores:</strong> Marlon Brando, Al Pacino, James Caan</p>
+      <p><strong>Sinopse:</strong> Don Vito Corleone, chefe de uma poderosa família mafiosa, tenta manter sua família unida, enquanto lida com o poder e a violência do crime organizado.</p>
+    </div>
+
+    <!-- Filme 3 -->
+    <div class="movie">
+      <img src="https://m.media-amazon.com/images/I/81mVt9EC5jL._AC_SY679_.jpg" alt="Vingadores: Ultimato">
+      <h2>Vingadores: Ultimato</h2>
+      <p><strong>Ano:</strong> 2019</p>
+      <p><strong>Gênero:</strong> Ação, Aventura, Ficção científica</p>
+      <p><strong>Atores:</strong> Robert Downey Jr., Chris Evans, Mark Ruffalo</p>
+      <p><strong>Sinopse:</strong> Após a destruição causada por Thanos, os Vingadores tentam reverter o que foi perdido e derrotar o vilão que causou tanto dano ao universo.</p>
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
