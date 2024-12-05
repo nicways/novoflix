@@ -41,6 +41,28 @@
     </div>
 
   </div>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lista de Filmes</title>
+  <!-- A referência ao arquivo CSS dentro da pasta 'css' -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Lista de Filmes</h1>
+
+    <!-- Aqui você coloca a lista de filmes que já tem -->
+
+  </div>
+
+  <!-- A referência ao arquivo JavaScript dentro da pasta 'js' -->
+  <script src="js/script.js"></script>
+</body>
+</html>
+
 
   <script src="script.js"></script>
 </body>
